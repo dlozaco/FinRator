@@ -1,2 +1,2 @@
-# FinRator
-A simple financial web to manage your money
+# BumaBox
+A web page to rate books and mangas!!
