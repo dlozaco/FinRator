@@ -1,3 +1,4 @@
+name: bumabox
 version: '3.8'
 
 services:
